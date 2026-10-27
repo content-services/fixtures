@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update from="enhancements@redhat.com" status="final" type="enhancements" version="1">
+        <id>RHEA-2010:9983</id>
+        <title>Zoo package enhancements</title>
+        <issued date="2010-11-12 00:00:00"/>
+        <updated date="2010-11-13 00:00:00"/>
+        <description/>
+        <references/>
+        <pkglist>
+            <collection short="F14SavA">
+                <name>F14 Savanna Animals</name>
+                <package name="cheetah" version="0.3" release="0.8" epoch="0" arch="noarch" src="cheetah-0.3-0.8.noarch.rpm">
+                    <filename>cheetah-0.3-0.8.noarch.rpm</filename>
+                    <sum type="md5">0118ab5d4188121737cbc28ffda8783d</sum>
+                </package>
+                <package name="elephant" version="0.3" release="0.8" epoch="0" arch="noarch" src="elephant-0.3-0.8.noarch.rpm">
+                    <filename>elephant-0.3-0.8.noarch.rpm</filename>
+                    <sum type="md5">b029ffa74171d1f60d58ad25a4822db2</sum>
+                </package>
+                <package name="giraffe" version="0.3" release="0.8" epoch="0" arch="noarch" src="giraffe-0.3-0.8.noarch.rpm">
+                    <filename>giraffe-0.3-0.8.noarch.rpm</filename>
+                    <sum type="md5">38721d7eb537d3f1d39bfc7222dbf95d</sum>
+                </package>
+            </collection>
+        </pkglist>
+    </update>
+    <update from="enhancements@redhat.com" status="final" type="enhancements" version="1">
+        <id>RHEA-2010:9984</id>
+        <title>Zoo package enhancements</title>
+        <issued date="2010-11-12 00:00:00"/>
+        <updated date="2010-11-13 00:00:00"/>
+        <description/>
+        <references/>
+        <pkglist>
+            <collection short="F14SeaA">
+                <name>F14 Sea Animals</name>
+                <package name="walrus" version="0.3" release="0.8" epoch="0" arch="noarch" src="walrus-0.3-0.8.noarch.rpm">
+                    <filename>walrus-0.3-0.8.noarch.rpm</filename>
+                    <sum type="md5">e3c3350f8a443e41aaecd9e9fbb4a711</sum>
+                </package>
+                <package name="penguin" version="0.3" release="0.8" epoch="0" arch="noarch" src="penguin-0.3-0.8.noarch.rpm">
+                    <filename>penguin-0.3-0.8.noarch.rpm</filename>
+                    <sum type="md5">a1cb40b5a3a4cdd5bf48573753ff1851</sum>
+                </package>
+            </collection>
+        </pkglist>
+    </update>
+</updates>
